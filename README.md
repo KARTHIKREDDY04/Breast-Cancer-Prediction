@@ -131,7 +131,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 If you have any questions or suggestions, feel free to reach out:
 
-- **GitHub:** [yourusername](https://github.com/KARTHIKREDDY04)
+- **GitHub:** https://github.com/KARTHIKREDDY04
 
 ---
 
